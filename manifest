@@ -248,8 +248,8 @@
    "Servers":{
       "Official":[
          {
-			"Address": "5.42.211.57",
-			"Port": 35000,
+			"Address": "46.174.48.166",
+			"Port": 28015,
 			"Tags": ""
          },
          {
